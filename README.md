@@ -1,3 +1,5 @@
+= [Deprecated:  see was_robot_suite] 
+
 [![Build Status](https://travis-ci.org/sul-dlss/was-crawl-preassembly.svg?branch=master)](https://travis-ci.org/sul-dlss/was-crawl-preassembly) [![Coverage Status](https://coveralls.io/repos/sul-dlss/was-crawl-preassembly/badge.png)](https://coveralls.io/r/sul-dlss/was-crawl-preassembly) [![Dependency Status](https://gemnasium.com/sul-dlss/was-crawl-preassembly.svg)](https://gemnasium.com/sul-dlss/was-crawl-preassembly) 
 
 was-crawl-preassembly
